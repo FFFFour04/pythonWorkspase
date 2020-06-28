@@ -8,3 +8,4 @@ class PolicyUtil:
 
     def getDog(self):
         print('run test:'+self.name)
+        print('run test:' + self)
